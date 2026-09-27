@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="220" valign="top">
-      <img src="./assets/profile.jpg" width="200" style="border-radius: 50%;" />
+      <img src="./assests/profile.jpg" width="200" style="border-radius: 50%;" />
     </td>
     <td valign="middle">
 
