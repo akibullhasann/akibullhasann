@@ -84,4 +84,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akibullhasann&show_icons=true&theme=react&hide_border=true&count_private=tr
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akibullhasann&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibullhasann&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akibullhasann&theme=react&hide_border=true" />
+</p>
