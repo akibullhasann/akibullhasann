@@ -14,6 +14,9 @@
   <a href="https://github.com/akibullhasann">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://my-portfolio-two-ruby-dvx70b0gpn.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <!-- Add your other links below, replace # with your actual URLs -->
   <a href="mailto:akibullhasann@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -36,6 +39,7 @@
 - 🌱 Currently building projects with **React**, **Tailwind CSS**, and **Context API**
 - 📈 Interested in **Web Performance** and writing clean, maintainable code
 - 📫 Reach me at: **akibullhasann@gmail.com**
+- 📍 Based in **London, United Kingdom**
 
   </td>
   </tr>
@@ -60,6 +64,16 @@
 **FitLog** — A dark, no-nonsense gym companion built with Next.js. Browse a workout library, build a daily plan, track calories & minutes, and save workouts for later.
 
 🔗 Live: [fit-log-swart-nine.vercel.app](https://fit-log-swart-nine.vercel.app)
+
+<br clear="left"/>
+
+<a href="https://github.com/akibullhasann/Studio-Nest">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akibullhasann&repo=Studio-Nest&theme=react&hide_border=true" />
+</a>
+
+**Studio Nest** — A full stack studio rental and booking platform. Users browse studios by category (Photo Studio, Film Stage, Podcast Lounge, Music Suite, Dance Floor and Art Studio), and hosts can list their own studio through an Add Studio form. Built with Next.js, Tailwind CSS, Express.js and MongoDB.
+
+🔗 Live: [studio-nest-sooty.vercel.app](https://studio-nest-sooty.vercel.app/) | 📂 Repo: [Studio-Nest](https://github.com/akibullhasann/Studio-Nest)
 
 <br clear="left"/>
 
