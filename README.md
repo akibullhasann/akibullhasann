@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akibul%20Hasan&fontSize=50&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akibul%20Hasan&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%5BMERN%5D&descAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -84,16 +84,4 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akibullhasann&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibullhasann&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akibullhasann&theme=react&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akibullhasann&show_icons=true&theme=react&hide_border=true&count_private=tr
